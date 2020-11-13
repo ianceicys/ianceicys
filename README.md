@@ -7,7 +7,7 @@
 
 <!-- About me -->
 <p>
-I'm Ian Ceicys. I'm a senior director of release management at Salesforce. I'm a passionate about making releasing software a joy, I love working across the latest cloud technologies. ✨. Apart from that I also love to be a guide and mentor for those who are new to cloud platforms. I'm currently into Azure Devops, Terraform, AWS-Code Deploy, and Spinnaker!
+My name is Ian Ceicys (last name is Lithuanian and pronounced like 2 Cs and a Z (CCz). I'm a senior director of release management at Salesforce. I'm a passionate about making releasing software a joy, I love working across the latest cloud technologies. ✨. Apart from that I also love to be a guide and mentor for those who are new to cloud platforms. I'm currently into Azure Devops, Terraform, AWS-Code Deploy, and Spinnaker!
 </p>
 
 <!-- Personal Stuffs -->
@@ -27,8 +27,6 @@ I'm Ian Ceicys. I'm a senior director of release management at Salesforce. I'm a
 <a href="https://dev.to/ianceicys" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/dev.svg" alt="ianceicys" height="30" width="30" /></a>
 </p>
 
-
-### Hi there 👋
 
 <!--
 **ianceicys/ianceicys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

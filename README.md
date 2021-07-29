@@ -34,19 +34,23 @@ I prefer to work from home, but love serendipitous hallway conversations + getti
 <h3>Ian Views</h3>
 
 **🗣 Communication is everything, especially online.**
-If you can't communicate or collaborate with others, your career will be over before it begins. Engineering and Management are team sports. Any successful project will have a strong emphasis on communication, collaboration, empathy, and respect - not just engineering.
 
-📈 Choose growth opportunities.
-"Try never to be the smartest person in the room. And if you are, I suggest you invite smarter people… or find a different room." Always choose an opportunity to learn, to grow new skills. Always.
+  If you can't communicate or collaborate with others, your career will be over before it begins. Engineering and Management are team sports. Any successful project will have a   strong emphasis on communication, collaboration, empathy, and respect - not just engineering.
 
-👭 Nurture and build communities.
-Communities are powerful, fragile things and must be nurtured over time. Be kind; have empathy; respect differing paces. Everything is about the community: making it collaborative, caring; a collective. A group of passionate people who care about each other's success. If you can build a healthy community, you can build anything.
+**📈 Choose growth opportunities.**
 
-🎁 Give without expecting a return.
-Someone very wise once said to me "you'll meet people — and you'll help, support, and encourage them, not even thinking about it. But those influences will change lives; and if you're lucky, you'll find out later." So surprise with your later!
+  "Try never to be the smartest person in the room. And if you are, I suggest you invite smarter people… or find a different room." Always choose an opportunity to learn, to       grow new skills. Always.
 
-🙏 Believe in people.
-People are what are behind every character of code that you read, every video that you watch, every song that is sung, and every lawsuit that is filed. Default to Smart and Good with people and you'll find that you can go farther together than alone.
+**👭 Nurture and build communities.**
+
+  Communities are powerful, fragile things and must be nurtured over time. Be kind; have empathy; respect differing paces. Everything is about the community: making it             collaborative, caring; a collective. A group of passionate people who care about each other's success. If you can build a healthy community, you can build anything.
+
+**🎁 Give without expecting a return.**
+
+  Someone very wise once said to me "you'll meet people — and you'll help, support, and encourage them, not even thinking about it. But those influences will change lives; and     if you're lucky, you'll find out later." So surprise with your later!
+
+**🙏 Believe in people.**
+  People are what are behind every character of code that you read, every video that you watch, every song that is sung, and every lawsuit that is filed. Default to Smart and     Good with people and you'll find that you can go farther together than alone.
 
 <!--
 **ianceicys/ianceicys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

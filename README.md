@@ -41,7 +41,7 @@ I prefer to work from home, but love serendipitous hallway conversations + getti
 
   "Try never to be the smartest person in the room. And if you are, I suggest you invite smarter people… or find a different room." Always choose an opportunity to learn, to       grow new skills. Always.
 
-**👭 Nurture and build communities.**
+** 👩‍🎤👨‍🎤👩‍🦰👨‍🦱👳‍♂️💂‍♂️👩‍💼🧙‍♂️ Nurture and build communities.**
 
   Communities are powerful, fragile things and must be nurtured over time. Be kind; have empathy; respect differing paces. Everything is about the community: making it             collaborative, caring; a collective. A group of passionate people who care about each other's success. If you can build a healthy community, you can build anything.
 

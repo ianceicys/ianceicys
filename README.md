@@ -47,7 +47,7 @@ I prefer to work from home, but love serendipitous hallway conversations + getti
 
 **🎁 Give without expecting a return.**
 
-  Someone very wise once said to me "you'll meet people — and you'll help, support, and encourage them, not even thinking about it. But those influences will change lives; and     if you're lucky, you'll find out later." So surprise with your later!
+  Someone very wise once said to me "you'll meet people — and you'll help, support, and encourage them, not even thinking about it. But those influences will change lives; and     if you're lucky, you'll find out later." So if our paths cross today, surprise me with your later!
 
 **🙏 Believe in people.**
   People are what are behind every character of code that you read, every video that you watch, every song that is sung, and every lawsuit that is filed. Default to Smart and     Good with people and you'll find that you can go farther together than alone.

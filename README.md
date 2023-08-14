@@ -7,7 +7,7 @@
 
 <!-- About me -->
 <p>
-My name is Ian Ceicys (last name is Lithuanian and pronounced like 2 Cs and a Z (CCz). I'm a senior director of release management at Salesforce. I'm a passionate about making releasing software a joy, I love working across the latest cloud technologies. ✨. Apart from that I also love to be a guide and mentor for those who are new to cloud platforms. I'm currently into Azure Devops, Terraform, AWS-Code Deploy, and Spinnaker!
+My name is Ian Ceicys (last name is Lithuanian and pronounced like 2 Cs and a Z (CCz). I'm a senior technical program manager for Microsoft Dataverse. I'm a passionate about making releasing software a joy, I love working across the latest cloud technologies. ✨. Apart from that I also love to be a guide and mentor for those who are new to cloud platforms. I'm currently into Azure Devops, Terraform, AWS-Code Deploy, and Spinnaker!
 </p>
 
 whoami
